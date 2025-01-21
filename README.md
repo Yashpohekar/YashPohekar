@@ -11,8 +11,10 @@
 
 
 <h3 align="center">Languages and Tools :</h3>
-<h3 align="center">Excel, Power BI, Sql and python 
+<h2 align="center">Excel, Power BI, Sql and python </h2>
 
+<br>
+</br>
 <br>
 </br>
   
