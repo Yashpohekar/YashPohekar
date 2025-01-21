@@ -1,11 +1,11 @@
 <h1 align="center">Hi , I'm Yash S. Pohekar 👋 </h1>
-<h3 align="center">A Passionate Front-End Developer / Data Analytics from India</h3>
+<h3 align="center">I'm a Passionate Front-End Developer / Data Analytics </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashpohekar&label=Profile%20views&color=0e75b6&style=flat" alt="yashpohekar" /> </p>
 
 - 🌱 I’m currently learning ** Front-End Developer / Data Analytics **
-- 👨‍💻 All of my projects are available at https://yash-react-portfolio-website.netlify.app/
-- 📫 How to reach me **yashpohekar44@gmail.com**
+- 👨‍💻 Linkedin:https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
+- 📫 Email: yashpohekar44@gmail.com
 - ⚡ Fun fact **You are stronger than you think 🔥**
 
 
