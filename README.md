@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋 ,  I'm Yash S. Pohekar </h1>
-<h3 align="center">A Passionate Full Stack Developer from India</h3>
+<h3 align="center">A Passionate Front-End Developer / Data Analytics from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashpohekar&label=Profile%20views&color=0e75b6&style=flat" alt="yashpohekar" /> </p>
 
-- 🌱 I’m currently learning **React Fullstack Development**
+- 🌱 I’m currently learning ** Front-End Developer / Data Analytics **
 - 👨‍💻 All of my projects are available at https://yash-react-portfolio-website.netlify.app/
 - 📫 How to reach me **yashpohekar44@gmail.com**
 - ⚡ Fun fact **You are stronger than you think 🔥**
