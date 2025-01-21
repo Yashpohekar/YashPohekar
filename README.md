@@ -9,12 +9,13 @@
 - Data Analytics 
 
 
-<h3 align="Left">💻 Languages and Tools :</h3>
+<h3 align="Left">💻 Languages and Tools : </h3>
  Excel, Power BI, Sql and Python 
  
 
-<h3 align="Left">📫 Let's Connect</h3>
+<h3 align="Left">📫 Let's Connect </h3>
  - 👨‍💻 Linkedin: www.linkedin.com/in/yash-pohekar-544a17184
+ 
  - 📫 Email: yashpohekar44@gmail.com
 
 
