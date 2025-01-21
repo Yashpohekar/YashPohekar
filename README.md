@@ -14,12 +14,8 @@
  
 
 <h3 align="Left">📫 Let's Connect</h3>
-- 👨‍💻 Linkedin: www.linkedin.com/in/yash-pohekar-544a17184
-- 📫 Email: yashpohekar44@gmail.com
-
-📫 Let's Connect
-LinkedIn: Vipin Girjapure
-Email: vipingirjapure@gmail.com
+ - 👨‍💻 Linkedin: www.linkedin.com/in/yash-pohekar-544a17184
+ - 📫 Email: yashpohekar44@gmail.com
 
 
 
