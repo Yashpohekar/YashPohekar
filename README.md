@@ -13,11 +13,7 @@
 <h3 align="center">Languages and Tools :</h3>
 <h3 align="center">Excel, Power BI, Sql and python 
 
-<p align="center"> <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=yashpohekar&show_icons=true&locale=en&layout=compact" alt="yashpohekar" /></p> 
 
-<p>&nbsp;
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashpohekar&show_icons=true&locale=en" alt="yashpohekar" /></p>
   
 </div>
 <div align="center">
